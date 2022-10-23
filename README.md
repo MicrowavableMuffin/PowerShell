@@ -3,6 +3,9 @@ _Customize PowerShell for extensibility_
 
 ---  
 
+# Description:  
+Makes using and extending powershell easier, and easier to remember  
+
 ## Usage:  
 Navigate PowerShell to the download folder:  
 `> cd PowerShell`  
