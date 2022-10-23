@@ -10,7 +10,7 @@ Load the configure file:
 `. ./configure.ps1`
 
 ### Synopsis:  
-_`profile.ps1:`_ Loads all functions from the C:\Users\username\scrit folder  
+_`profile.ps1:`_ Loads all functions from the `C:\Users\<username>\scrit` folder  
 _`configure.ps1`_ Copies this configuration into working place  
 
 lib/  
